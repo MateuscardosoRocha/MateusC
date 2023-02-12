@@ -1,6 +1,6 @@
 ### Olá, eu sou o Mateus!!
 
-- 🔭 I’m currently working on Futebol
+- 🔭 I currently work as a junior web programmer at an electric mobility company
 - 🌱 I’m currently learning Analise e Desenvolvimento de Sistemas
 
 
